@@ -4,4 +4,4 @@ This is a shared space for the members of the laboratory network. We belive that
 # Members
 - Jembi Health Systems Health Enterprise Architecture Laboratory (HEAL)
 - Standards and Interoperability Laboratory (SIL) - AeHIN
-- MoHawk eHealth Laboratory (innovation-laboratory)
+- MoHawk's mHealth & eHealth Development and Innovation Centre (MEDIC) (https://mohawkmedic.com/)
