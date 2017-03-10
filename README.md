@@ -7,5 +7,4 @@ This is a shared space for the members of the laboratory network. We belive that
 - MoHawk's mHealth & eHealth Development and Innovation Centre (MEDIC) (https://mohawkmedic.com/)
 
 # List of existing artefacts
-- Open Health Information Mediator (OpenHIM) [http://www.openhim.org] - an open source middleware component to facilitate interoperability and data exchange between health systems. [Curator: *Jembi*]
-- 
+- Open Health Information Mediator (OpenHIM) [http://www.openhim.org] an open source middleware component to facilitate interoperability and data exchange between health systems. [Curator: *Jembi*]
